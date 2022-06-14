@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-        Hi There! Welcome to learning Docker and Kubernetes in 30 days.
+        Hi there! I was changed.
       </p>
     </div>
   );
